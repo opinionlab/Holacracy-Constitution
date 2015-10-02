@@ -457,6 +457,13 @@ A Process Breakdown of one Circle may not be considered a Process Breakdown of i
 
 However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
 
+#### 3.6 Alternative Governance Using Core Protocols
+
+A Circle may adopt a Policy to operate and govern using a version of 
+**_"The Core Protocols"_** approved by the ratifiers of this Constitution. 
+This supersedes the Governance process in 3.3.3, 3.3.4, 3.3.5, 3.3.6, and 3.3.7
+is replaced with the Meet protocol.
+
 ## Article IV: Operational Process
 
 ### 4.1 Duties of Circle Members
